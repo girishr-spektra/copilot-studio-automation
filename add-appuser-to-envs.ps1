@@ -1,4 +1,4 @@
-# ============================================================================
+﻿# ============================================================================
 # BULK APPLICATION USER (S2S) REGISTRATION TO DEVELOPER ENVIRONMENTS
 # ============================================================================
 # Registers an Azure AD application as an Application User (S2S) with

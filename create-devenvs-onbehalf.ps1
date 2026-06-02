@@ -1,4 +1,4 @@
-# ============================================================================
+﻿# ============================================================================
 # BULK DEVELOPER ENVIRONMENT CREATOR (On Behalf Of Users)
 # ============================================================================
 # Creates Power Platform Developer environments as Global Admin on behalf of
